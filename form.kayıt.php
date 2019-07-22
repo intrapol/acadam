@@ -7,6 +7,9 @@
 </head>
 
 <html>
+<p>
+  <img src="lahmacun.jpg">
+</p>
 <h1>Form Kullanım Örneği</h1>
 <form action="test.php" name="test" method="post">
 
