@@ -8,7 +8,7 @@
 
 <html>
 <p>
-  <img src="lahmacun.jpg">
+  <img src="lahmacun.jpeg">
 </p>
 <h1>Form Kullanım Örneği</h1>
 <form action="test.php" name="test" method="post">
